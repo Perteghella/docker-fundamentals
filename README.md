@@ -1,6 +1,7 @@
 # Docker Fundamentals
 
 Sample examples for learning Docker, Dockerfile and Compose.
+This files are used in my course DOC101-Docker-Fundamentals and DOC102-Docker-Advanced
 
 ## Single container
 
