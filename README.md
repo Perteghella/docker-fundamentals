@@ -8,4 +8,4 @@ This folder contains the files to build a single-container web app (express, han
 
 ## Multi-container
 
-This folder contains the files to build a multi-container web app (Flash  with Redis)
+This folder contains the files to build a multi-container web app (Flask  with Redis)
