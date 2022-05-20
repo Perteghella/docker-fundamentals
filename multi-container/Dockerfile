@@ -1,5 +1,5 @@
 # Base image
-FROM python:3.11.0a2-alpine
+FROM python:3.11.0b1-alpine
 # Set working directory for subsequent commands
 WORKDIR /code
 ENV FLASK_APP=app.py
